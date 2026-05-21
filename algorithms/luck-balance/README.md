@@ -13,12 +13,12 @@ k = 2
 L = [5,1,4]
 T = [1,1,0]
 
-´´´ text 
+``` text 
 Contest     L[i]        T[i]
 1           5           1
 2           1           1
 3           4           0
-
+```
 If Lena loses all of the contests, her will be 5+1+4 = 10. Since she is allowed to lose 2 important contests, and there are only 2 important contests, she can lose all three contests to maximize her luck at 10.
 
 If k = 1, she has to win at least  of the  important contests. She would choose to win the lowest value important contest worth . Her final luck will be 5 + 4 - 1 = 8.
