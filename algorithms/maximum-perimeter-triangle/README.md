@@ -11,6 +11,7 @@ If there are several valid triangles having the maximum perimeter:
 If no non-degenerate triangle exists, return [-1].
 
 **Example**
+
 sticks = [1,2,3,4,5,10]
 
 The triplet (1,2,3) will not form a triangle. Neither will (4,5,10) or (2,3,5), so the problem is reduced to (2,3,4) and (3,4,5). The longer perimeter is 3 + 5 = 12.
