@@ -8,7 +8,8 @@ Lena is preparing for an important coding competition that is preceded by a numb
 
 - T[i] denotes the contest's importance rating. It's equal to  if the contest is important, and it's equal to 0 if it's unimportant.
 
-Example 
+**Example**
+
 k = 2
 L = [5,1,4]
 T = [1,1,0]
