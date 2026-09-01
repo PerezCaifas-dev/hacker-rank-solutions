@@ -13,9 +13,11 @@ Serve time	11	11	8	5	7
 ```
 We see that the orders are delivered to customers in the following order:
 
+```
 Order by:
 Serve time	5	7	8	11	11
 Customer	4	5	3	1	2
+```
 
 **Function Description**
 
@@ -37,15 +39,20 @@ Print a single line of  space-separated customer numbers (recall that customers 
 
 **Sample Input 0**
 
+```
 3
 1 3
 2 3
 3 3
+```
 
 **Sample Output 0**
 
+```
 1 2 3
-Explanation 0
+```
+
+**Explanation 0**
 
 Jim has the following orders:
 
