@@ -4,11 +4,13 @@ The time of delivery is calculated as the sum of the order number and the prepar
 
 For example, there are n = 5 customers in line. They each receive an order number order[i] and a preparation time prep[i].:
 
+```
 Customer	1	2	3	4	5
 Order #		8	5	6	2	4
 Prep time	3	6	2	3	3
 Calculate:
 Serve time	11	11	8	5	7
+```
 We see that the orders are delivered to customers in the following order:
 
 Order by:
