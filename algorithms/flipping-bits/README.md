@@ -1,11 +1,14 @@
 You will be given a list of 32 bit unsigned integers. Flip all the bits (1 -> 0 and 0 -> 1) and return the result as an unsigned integer.
 
 *Example*
+
 n = 9<sub>10</sub>
 
 
 9<sub>10</sub> = 1001<sub>2</sub>. We're working with 32 bits, so:
+
 00000000000000000000000000001001<sub>2</sub> = 9<sub>10</sub>
+
 11111111111111111111111111110110<sub>2</sub> = 4294967286<sub>10</sub>
 
 Return 4294967286.
