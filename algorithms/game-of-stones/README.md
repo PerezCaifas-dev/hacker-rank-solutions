@@ -10,7 +10,7 @@ For example, if n = 4, P1 can make the following moves:
 - P1 removes 3 stones leaving 1. P2 cannot move and loses.
 P1 would make the second play and win the game.
 
-*Function Description*
+**Function Description**
 
 Complete the gameOfStones function in the editor below. It should return a string, either First or Second.
 
@@ -18,16 +18,16 @@ gameOfStones has the following parameter(s):
 
 - n: an integer that represents the starting number of stones
 
-*Input Format*
+**Input Format**
 
 The first line contains an integer t, the number of test cases.
 Each of the next t lines contains an integer n, the number of stones in a test case.
 
-*Output Format*
+**Output Format**
 
 On a new line for each test case, print First if the first player is the winner. Otherwise print Second.
 
-*Sample Input*
+**Sample Input**
 
 ```
 8
@@ -41,7 +41,7 @@ On a new line for each test case, print First if the first player is the winner.
 10
 ```
 
-*Sample Output*
+**Sample Output**
 
 ```
 Second
